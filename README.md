@@ -1,4 +1,4 @@
-# Robotic-Arm-Project
+# Robotic-Arm-Project (Co-developer)
 
 This project is now complete, the following is what it achieved:
 
